@@ -6,10 +6,7 @@
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-The motivation of this project is to develop the foundations of web development and showcase them through this guide. The purpose of this project is to demonstrate any user can create a web application.
-
+This Prework Study Guide was created for boot camp students who were going through the Prework. It contains notes on HTML, CSS, Git, and JavaScript.
 
 ## Installation
 
