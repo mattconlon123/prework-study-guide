@@ -1,8 +1,5 @@
-# prework-study-guide
 <html>
 <body>
-
-# Prework-Study-Guide
 
 ## Description
 
@@ -14,7 +11,7 @@ N/A.
 
 ## Usage
 
-Each section contains notes about a certain topic, HTML, CSS, JavaScript,and Git. To view the javascript output of the guide open the DevTools console, listing the topics we learned from prework and selection one topic for us to study first.
+Each section contains notes about a certain topic, HTML, CSS, JavaScript, and Git. To view the javascript output of the guide open the DevTools console, listing the topics we learned from prework and selection one topic for us to study first.
 
 ## Credits
 
