@@ -10,7 +10,7 @@ This Prework Study Guide was created for boot camp students who were going throu
 
 ## Installation
 
-N/A
+N/A.
 
 ## Usage
 
@@ -18,7 +18,7 @@ Each section contains notes about a certain topic, HTML, CSS, JavaScript,and Git
 
 ## Credits
 
-N/A
+N/A.
 
 ## License
 
