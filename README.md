@@ -2,8 +2,6 @@
 <html>
 <body>
 
-<h1>Boot Camp Prework Study Guide For Students</h1>
- 
 # Prework-Study-Guide
 
 ## Description
